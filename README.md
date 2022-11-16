@@ -1,4 +1,4 @@
-# 3D Roller Tabel With Moving Box
+# 3D Roller Table With Moving Box
 
 This project is made with Three.js and Blender.
 
